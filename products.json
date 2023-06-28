@@ -1,0 +1,96 @@
+[
+    {
+        "id":"vimal1",
+        "name" : "iphone",
+        "price": 154,
+        "image": "./images/1.png",
+        "featured" : true,
+        "company":"apple"
+    },
+    {
+        "id":"vimal2",
+       "name" : "iphone10",
+        "price": 1154,
+        "image": "./images/2.png",
+        "featured" : true,
+        "company":"apple" 
+    },
+    {
+        "id":"vimal3",
+       "name" : "watch",
+        "price": 300,
+        "image": "./images/3.png",
+        "featured" : true,
+        "company":"apple" 
+    },
+    {
+        "id":"vimal4",
+       "name" : "s20",
+        "price": 4500,
+        "image": "./images/4.png",
+        "company":"samsung" 
+    },
+    {
+        "id":"vimal5",
+       "name" : "dell Gaming",
+        "price": 2000,
+        "image": "./images/5.png",
+        "company":"dell" 
+    },
+    {
+        "id":"vimal6",
+       "name" : "redmi note4",
+        "price": 1504,
+        "image": "./images/6.png",
+        "company":"mi" 
+    },
+    {
+        "id":"vimal7",
+       "name" : "mi 10pro",
+        "price": 6050,
+        "image": "./images/7.png",
+        "company":"mi" 
+    },
+    {
+        "id":"vimal8",
+       "name" : "redmi note4",
+        "price": 1504,
+        "image": "./images/8.png",
+        "company":"mi" 
+    },
+    {
+        "id":"vimal9",
+       "name" : "redmi note4",
+        "price": 1504,
+        "image": "./images/9.png",
+        "company":"mi" 
+    },
+    {
+        "id":"vimal10",
+       "name" : "redmi note4",
+        "price": 1504,
+        "image": "./images/10.png",
+        "company":"mi" 
+    },
+    {
+        "id":"vimal11",
+       "name" : "redmi note4",
+        "price": 1504,
+        "image": "./images/11.png",
+        "company":"mi" 
+    },
+    {
+        "id":"vimal12",
+       "name" : "redmi note4",
+        "price": 1504,
+        "image": "./images/12.png",
+        "company":"mi" 
+    },
+    {
+        "id":"vimal13",
+       "name" : "redmi note5",
+        "price": 1250,
+        "image": "./images/12.png",
+        "company":"mi" 
+    }
+]
